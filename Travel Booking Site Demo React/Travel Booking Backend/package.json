@@ -1,0 +1,28 @@
+{
+  "name": "wanderlust-web-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-mocha": "^8.0.0",
+    "gulp-shell": "^0.8.0",
+    "mocha-junit-reporter": "^2.0.0",
+    "mongoose": "^5.4.17",
+    "nodemon": "^2.0.15",
+    "nyc": "^15.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.27.0",
+    "mocha": "^8.4.0",
+    "supertest": "^6.1.3"
+  }
+}

@@ -1,0 +1,1093 @@
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1446
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1446
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws-18\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws-18\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws-18\src\model\usersRegister.js:23:1446
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws-18\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\UserBooking.js:4:141
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\UserBooking.js:4:141
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1419
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1431
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:18:13
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:73:63
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:10:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:102:19
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:14:13
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:1077
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:1277
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\model\usersRegister.js:23:1454
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\userslogin.js:3:288
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\sudha.eswaran\Documents\wanderlust-ws\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\model\usersRegister.js:5:560
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\service\data.js:2:2683
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\harshitha.r03\Documents\wanderlust\wanderlust_WS\wanderlust-ws\src\routes\userRouter.js:2:875
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\model\usersRegister.js:5:572
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at model.Query.exec (C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4381:21)
+    at model.Query.Query.then (C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\node_modules\mongoose\lib\query.js:4473:15)
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\model\usersRegister.js:5:572
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\userslogin.js:3:281
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: TypeError: Cannot read property 'destId' of null
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\data.js:2:2621
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No hot Deals Available 
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\data.js:2:1890
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No Destination Available 
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\data.js:2:978
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No Slots Available 
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\service\data.js:2:1456
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:363:5)
+    at ServerResponse.setHeader (node:_http_outgoing:574:11)
+    at ServerResponse.header (C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.send (C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\node_modules\express\lib\response.js:170:12)
+    at C:\Users\anishm.raghavendra\Documents\WS\wanderlust-ws\src\routes\userRouter.js:2:891
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
